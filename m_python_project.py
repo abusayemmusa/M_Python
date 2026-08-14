@@ -36,5 +36,30 @@ else:
 4. Prime Number Checker
 ========================================================================================================
 
+========================================================================================================
+========================================================================================================
+========================================================================================================
+Factorial Calculator
+Fibonacci Series
+Multiplication Table
+Number Guessing Game
+Rock Paper Scissors
+Dice Rolling Simulator
+Password Generator
+BMI Calculator
+Age Calculator
+Unit Converter
+Temperature Converter
+Countdown Timer
+Digital Clock
+Alarm Clock
+Calendar Program
+Quiz Game
+Hangman Game
+To-Do List (CLI)
+Contact Book
+Student Grade System
+========================================================================================================
+
 
 
