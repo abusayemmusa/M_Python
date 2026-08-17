@@ -68,6 +68,7 @@ Hangman Game
 To-Do List (CLI)
 Contact Book
 Student Grade System
+Expense Tracker
 ========================================================================================================
 
 
