@@ -88,10 +88,26 @@ while True:
 ========================================================================================================
 9. Rock Paper Scissors
 ========================================================================================================
+import random
+choice = random.choice(["rock", "paper", "scissors"])
 
+user_input = input("Enter rock, paper, or scissors (or 'quit' to exit): ").lower()
+if user_input == "quit":
+    print("Thanks for playing!")
+elif user_input == "rock" and choice == "scissors":
+    print("You win! Rock beats scissors.")
+elif user_input == "paper" and choice == "rock":
+    print("You win! Paper beats rock.")
+elif user_input == "scissors" and choice == "paper":
+    print("You win! Scissors beats paper.")
+elif user_input == choice:
+    print(f"It's a tie! Both chose {choice}.")
+else:
+    print(f"You lose! {choice.capitalize()} beats {user_input}.")
 ========================================================================================================
 10. Dice Rolling Simulator
 ========================================================================================================
+
 ========================================================================================================
 11. Password Generator
 ========================================================================================================
